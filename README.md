@@ -1,5 +1,8 @@
-#Food Deserts in New Mexico
-##Exploring Data Using the Descartes Labs Python Client Library in a JupyterLab Environment
+Food Deserts in New Mexico
+==========================
+
+Exploring Data Using the Descartes Labs Python Client Library in a JupyterLab Environment
+-----------------------------------------------------------------------------------------
 
 The interesting work that Descartes Labs has done on the issue of [measuring food security from space](https://medium.com/@DescartesLabs/hacking-food-security-from-space-b06bd6243c4a) inspired me to explore a different aspect of food security: US Department of Agriculture data on food deserts. Which of New Mexico's low income food deserts contains a large number of people affected? One way to answer this question would be to look at total population of each food desert, but with census tracts of widely differing surface areas and grouped by similar population sizes, this doesn't necessarily provide a complete picture. I formulated a more specific question: "Which flagged census tract has the highest median population density?"
 
